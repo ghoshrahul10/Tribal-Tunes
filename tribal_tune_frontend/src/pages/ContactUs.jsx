@@ -2,10 +2,11 @@ import contact from "../assets/contact-us.png"
 
 const locations = [
   {
-    title: "Tribal Tunes",
+    title: "Developer",
     contact: "8434557877",
-    address:
-      "VIT Bhopal",
+    email:
+      "arpitkashyap2000@gmail.com",
+    address: "VIT Bhopal University, Kothri Kalan, Sehore, Madhya Pradesh - 466114",
   },
 ];
 
@@ -31,6 +32,9 @@ export const ContactUs = () => {
                     </p>
                     <p className="w-full text-base  text-gray-600">
                       {location.contact}
+                    </p>
+                    <p className="text-sm font-semibold text-gray-600">
+                      {location.email}
                     </p>
                     <p className="text-sm font-semibold text-gray-600">
                       {location.address}
