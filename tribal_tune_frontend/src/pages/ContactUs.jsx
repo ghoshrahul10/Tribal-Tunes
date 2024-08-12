@@ -2,7 +2,7 @@ import contact from "../assets/contact-us.png"
 
 const locations = [
   {
-    title: "Developer",
+    title: "Tribal Tunes",
     contact: "8434557877",
     email:
       "arpitkashyap2000@gmail.com",
