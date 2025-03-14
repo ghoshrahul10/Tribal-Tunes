@@ -3,10 +3,10 @@ import contact from "../assets/contact-us.png"
 const locations = [
   {
     title: "Tribal Tunes",
-    contact: "8434557877",
+    contact: "8271583335",
     email:
-      "arpitkashyap2000@gmail.com",
-    address: "VIT Bhopal University, Kothri Kalan, Sehore, Madhya Pradesh - 466114",
+      "ghoshrahul1702@gmail.com",
+    address: "CMRIT 132, IT Park Road, AECS Layout Kundalahalli, Bangalore-560037  ",
   },
 ];
 
